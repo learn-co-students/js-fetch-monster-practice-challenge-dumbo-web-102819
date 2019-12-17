@@ -1,12 +1,6 @@
 {
   "monsters": [
     {
-      "name": "Chronos",
-      "age": 4005.302453418598,
-      "description": "Effulgence eldritch shunned foetid. Ululate gibbering tenebrous foetid iridescence daemoniac. Stench nameless gambrel. Amorphous furtive iridescence noisome. Foetid mortal nameless.",
-      "id": 1
-    },
-    {
       "name": "Tartarus",
       "age": 1874.4913565609456,
       "description": "Cyclopean swarthy amorphous singular accursed furtive non-euclidean stygian. Swarthy gibbering charnel eldritch daemoniac gibbous. Cyclopean lurk hideous tentacles squamous immemorial tenebrous mortal. Madness tentacles furtive mortal foetid decadent. Foetid immemorial comprehension.",
@@ -6005,6 +5999,24 @@
       "age": 13,
       "description": "131313",
       "id": 1001
+    },
+    {
+      "id": 1002
+    },
+    {
+      "id": 1003
+    },
+    {
+      "id": 1004
+    },
+    {
+      "id": 1005
+    },
+    {
+      "name": "frank",
+      "age": "12",
+      "description": "cool",
+      "id": 1006
     }
   ]
 }
